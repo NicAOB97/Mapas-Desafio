@@ -1,0 +1,77 @@
+,Unnamed: 0,Residencia,DISTRITO,CP,Comunidad,Calle,Telefono,Telefono Alternativo,Tipo,Oficina,Estado,latitudes,longitudes
+0,0,Acogida HORTALEZA ,Hortaleza,28043,Madrid,"C. de Valdetorres de Jarama, 1",917642900,917642943,Primera Acogida,,,N/A,N/A
+1,1,Acogida Isabel Clara Eugenia,Hortaleza,28033,Madrid,"C. del Mar Caspio, 8",917633222,917633240,Primera Acogida,,,40.6148809,-4.013341278551532
+2,2,Acogida casa de campo. Fundación Antonio Moreno,LATINA,28011,Madrid,"Camino del Robledal, 2",914700553,,Primera Acogida,,,40.2481046,-3.1397113
+3,3,Casa de los niños,"Fuencarral-El Pardo, Madrid",28049,Madrid,"Carr. Vía de Servicio, Km.12,800",917343082,917348780,Primera Infancia,,,N/A,N/A
+4,4,Residencia Menores Rosa,Chamartin,28036,Madrid,"P.º de la Habana, 173",913455173,913507392,Primera Infancia,,,40.46569315,-3.6799454650741024
+5,5,Residencia Para Menores El Valle,Salamanca,28003,Madrid,"C. Pinilla del Valle, 22",915535614,915353399,Primera Infancia,,,N/A,N/A
+6,6,Residencia Para Menores Las Acacias,Carabanchel,28025,Madrid,"Calle Gral. Ricardos, 177",914628426,,Residencias Infantiles ,,,N/A,N/A
+7,7,Residencia Infantil Alcalá de Henares,Alcalá de Henares,28804,Madrid,Calle Fernando de Flandes 16-18,918837321,,Residencias Infantiles ,,,40.4899445,-3.3481572
+8,8,Alcorcón,Alcorcón,28925,Madrid,Avenida Las Flores 70-72,916118051,,Residencias Infantiles ,,,40.759214,-3.7817977
+9,9,Aranjuez,Aranjuez,28300,Madrid,"Calle de la Alondra, 17",918915881,,Residencias Infantiles ,,,40.549061550000005,-3.9937888571128304
+10,10,Arce Rojo ,Fuenlabrada,28940,Madrid,Calle Navarra 23-25,916971158,,Residencias Infantiles ,,,40.3455262,-3.8305627
+11,11,Arganda,Arganda,28500,Madrid,Avenida Del Instituto 30,918757980,,Residencias Infantiles ,,,40.2942901,-3.4426635
+12,12,Residencia Infantil Azaleas,Colmenar Viejo,28770,Madrid,Calle Prado de las Azaleas 3,918467100,,Residencias Infantiles ,,,N/A,N/A
+13,13,Chamberí,Chamberí,28015,Madrid,Calle Fernandez de los Rios 37,914464201,,Residencias Infantiles ,,,N/A,N/A
+14,14,Encinar,Hortaleza,28043,Madrid,Calle Estrecho de Mesina 1,917595477,,Residencias Infantiles ,,,40.4528048,-3.6506067
+15,15,Fernandez De los Ríos,Chamberí,28015,Madrid,"Calle de Fernández de los Ríos, 2",914454483,,Residencias Infantiles ,,,40.4350043,-3.7045282
+16,16,Isabel de Castilla,Villa de Vallecas,28031,Madrid,Calle Sierra de Palomeras 12,913030016,,Residencias Infantiles ,,,40.37726385,-3.624554616800947
+17,17,Las rosas,San Blas,28032,Madrid,Avenida Guadalajara 69,917609230,,Residencias Infantiles ,,,40.566672,-3.5042791
+18,18,Residencia Infantil Leganes,Leganes,28914,Madrid,Calle Maestro 21,916883641,,Residencias Infantiles ,,,40.3268109,-3.8789307
+19,19,Móstoles,Mostoles,28935,Madrid,Camino De las Carrasquillas,916147332,,Residencias Infantiles ,,,N/A,N/A
+20,20,Ntra. sra. de Lourdes,Torrelodones,28850,Madrid,Calle Herrador 2,918590252,,Residencias Infantiles ,,,40.5745912,-3.9525075
+21,21,Palomeras,Puente de Vallecas,28038,Madrid,Calle Rafael Fernández Hijicos 39,913030500,,Residencias Infantiles ,,,N/A,N/A
+22,22,Parla,Parla,28980,Madrid,Calle Venecia 22-24,916994550,,Residencias Infantiles ,,,40.4288625,-4.0613155
+23,23,Vallehermoso,Chamberí,28015,Madrid,Calle Fernandez de los Rios 42,914465503,,Residencias Infantiles ,,,N/A,N/A
+24,24,A.F.A.S (Asociación Franciscana de apoyo social),Fuencarral - El Pardo,28048,Madrid,11 Carretera del Pista del Cristo de El Pardo,913761538,,Hogares o grupos familiares,,,N/A,N/A
+25,25,Acrescere - Sagrada Familia,Moncloa - Aravaca,28032,Madrid,"Osa Mayor, 19",910108623,915 791 470,Hogares o grupos familiares,,,40.461752,-3.772816
+26,26,Aldeas Infantiles SOS,San Lorenzo El Escorial,28200,Madrid,"C. de la Residencia, 70",918905292,,Hogares o grupos familiares,,,N/A,N/A
+27,27,Fundación ANAR,Salamanca,28028,Madrid,Avda. de América 24,917262700,,Hogares o grupos familiares,,,40.438796,-3.6739457
+28,28,Asociación Abrazo - San Mateo ,Usera,28041,Madrid,"C. Lodosa, 30",915003986,,Hogares o grupos familiares,,,40.3715037,-3.6885208
+29,29,Calasanz,Pinto,28320,Madrid,C. Asturias,916916407,916 91 23 98,Hogares o grupos familiares,,,40.2483973,-3.6948228
+30,30,Ciudad escuela de los muchachos,Leganes,28912,Madrid,"Av. del Dr. Fleming, 3",916946277,,Hogares o grupos familiares,,,40.3230102,-3.763188750759631
+31,31,Casa de Torremocha,Torremocha de Jarama,28189,Madrid,,918431077,,Hogares o grupos familiares,,,N/A,N/A
+32,32,Nuevo Futuro,Chamberí,28003,Madrid,"Calle de Bretón de los Herreros, 57",914411198,914411398,Hogares o grupos familiares,,,N/A,N/A
+33,33,El Olivo,Hortaleza,28043,Madrid,"calle Silvano, 7",913889194,913889226,Hogares o grupos familiares,,,40.4525109,-3.6495747
+34,34,Luis Amigó,Latina,28019,Madrid,"calle Cabo Suceso Terrero, 4",914727474,,Hogares o grupos familiares,,,40.3965049,-3.7305213
+35,35,Villa Paz,Pozuelo de Alarcon,28224,Madrid,Calle Juana Vallés 6,917155912,,Hogares o grupos familiares,,,40.4463834,-3.7945657
+36,36,Grupo educativo social ,Usera,28026,Madrid,"C. de Amparo Usera, 9",915000850,,Recursos de Adolescentes/ Piso tutelado,,,40.3875082,-3.7035828
+37,37,Ítaca,San Blas,28037,Madrid,"Calle de Laviana, 8",913756547,913756991,Recursos de Adolescentes/ Piso tutelado,,,N/A,N/A
+38,38,La ribera,Moncloa - Aravaca,28008,Madrid,"Paseo del Comandante Fortea, 5 ",914486950,,Recursos de Adolescentes/ Piso tutelado,,,40.424469099999996,-3.729180322130086
+39,39,Nuevo Futuro,Alcobendas,28100,Madrid,"Avda de España, 68 ",915295605,,Recursos de Adolescentes/ Piso tutelado,,,40.5457386,-3.6428148
+40,40,Asociación Paideia,Centro,28012,Madrid,"Pl. de Tirso de Molina, 13",914295132,,Recursos de Adolescentes,,,40.4122767,-3.7055966
+41,41,Fundación Tomillo,Salamanca,28006,Madrid,"C. Serrano, 136",915611604,,Recursos de Adolescentes,,,40.4477973,-3.6838191
+42,42,Torremocha (piso tutelado chicas),Torremocha de Jarama,28189,Madrid,"Calle Uceda, 39 ",918431077,,Recursos de Adolescentes/ Piso tutelado,,,40.7468197,-3.5116492
+43,43,Torremocha (piso tutelado chicos),Torremocha de Jarama,28189,Madrid,Calle Del Rio ,918431077,,Recursos de Adolescentes/ Piso tutelado,,,40.9926148,-3.7088694
+44,44,Manzanares,Hortaleza,28043,Madrid,Calle Arturo Soria 124,914151590,,Recursos de niños/niñas y adolescentes menores no acompañados,,,40.4808735,-3.3940207
+45,45,Vista Alegre,Carabanchel,28025,Madrid,"Calle del General Ricardos, 177",915079560,,Recursos de niños/niñas y adolescentes menores no acompañados,,,40.38202875,-3.736474014729084
+46,46,Afinsa - Los Alamos,Guadarrama,28440,Madrid,"Calle Santa Isabel, 12",911383540,950253271,Recursos de niños/niñas y adolescentes menores no acompañados,,,40.6494852,-4.0421037
+47,47,Arquisocial San Cosme,Miraflores de la Sierra,28046,Madrid,Calle San Cosme 3,682246678,,Recursos de niños/niñas y adolescentes menores no acompañados,,,N/A,N/A
+48,48,Asociación Dual ,Chamartin,28029,Madrid,"Calle de los Geranios, 47",916288379,913 231 555,Recursos de niños/niñas y adolescentes menores no acompañados,"C/ Albendiego, 7",,40.4732044,-3.6927517
+49,49,Caritas Diocesana de Madrid,Salamanca,28028,Madrid,"Calle de Francisco Silvela, 32",639492178,,Recursos de niños/niñas y adolescentes menores no acompañados,,,40.4323938,-3.6721431
+50,50,Ginso Magallanes,,28935,Madrid,,623395952,,Recursos de niños/niñas y adolescentes menores no acompañados,,,N/A,N/A
+51,51,Pinardi - Casa Garelli ,Parla,28980,Madrid,"Calle Cuenca, 31",914681252,,Recursos de niños/niñas y adolescentes menores no acompañados,,,40.2397441,-3.7652441
+52,52,Red Madrileña de inmigracion,,28039,Madrid,,910740147,,Recursos de niños/niñas y adolescentes menores no acompañados,,,N/A,N/A
+53,53,Trama menas,Latina,28024,Madrid,"Calle de Seseña, 9",913312054,679986620,Recursos de niños/niñas y adolescentes menores no acompañados,,,40.3950076,-3.7682507
+54,54,Centro del pinar (fundacion Samu),,28049,Madrid,,,,Recursos de niños/niñas y adolescentes menores no acompañados,,,N/A,N/A
+55,55,SAMU,Rivas - Vaciamadrid,28522,Madrid,"Calle del Acebo, 43",954461133,650403355,Recursos de niños/niñas y adolescentes menores no acompañados,,,40.3649092,-3.5313459
+56,56,SAMU (las rejas),Ciudad Lineal,28022,Madrid,,650403355,,Recursos de niños/niñas y adolescentes menores no acompañados,,,N/A,N/A
+57,57,SAMU (brenes),Hortaleza,28043,Madrid,,650403355,,Recursos de niños/niñas y adolescentes menores no acompañados,,,N/A,N/A
+58,58,Diagrama,,28022,Madrid,,913341689,,Recursos de niños/niñas y adolescentes menores no acompañados,,,N/A,N/A
+59,59,Diagrama (San Fernando de Henares),,28830,Madrid,,913341689,,Recursos de niños/niñas y adolescentes menores no acompañados,,,N/A,N/A
+60,60,Diagrama (valdemoro),,28342,Madrid,,913341689,,Recursos de niños/niñas y adolescentes menores no acompañados,,,N/A,N/A
+61,61,Almenara,Robledo de Chavela,28294,Madrid,"Calle Almenara, 47 (Robledo de Chavela) ",918998622,648090771,Menores con discapacidad,,,40.5091363,-4.2463191
+62,62,Apanid,Getafe,28905,Madrid,"Complejo Asistencial Prado Acedino, Carr. Madrid - Toledo, Km. 16, 400",916815511,,Menores con discapacidad,,,N/A,N/A
+63,63,Casa belen ,Ciudad Lineal,28017,Madrid,"Luis Ruiz, 52",91 367 24 40,913672440,Menores con discapacidad,,,40.4287296,-3.637072214562127
+64,64,Martinez Bujanda I,Fuenlabrada,28945,Madrid,"Calle La Habana, 33",916159468,,Menores con discapacidad,,,40.2923185,-3.7853929
+65,65,Martinez Bujanda  II,El Escorial ,28280,Madrid,C/ Bailén 4,918904110,,Menores con discapacidad,,,40.3493174,-3.8313659
+66,66,Peripatos,Carabanchel,28019,Madrid,"Calle Clarisas, 16",914710137,914 729 836,Menores con discapacidad,,,40.3901755,-3.7274665
+67,67,Nuño Gutierrez,Robledo de Chavela,28294,Madrid,,918998486,,Menores con discapacidad,,,N/A,N/A
+68,68,Santa Maria de la vida,,28017,Madrid,,917258306,,Menores con discapacidad,,,N/A,N/A
+69,69,Proyecto Persona,,28043,Madrid,,620022052,,Menores con discapacidad,,,N/A,N/A
+70,70,Berzosa,Berzosa de Lozoya ,28194,Madrid,"C. Villar, 3",918687089,,"Centro menores con trastornos de salud mental, consucta y/o consumo de sustancias toxicas",,,40.9746639,-3.5255613
+71,71,Dianova España ,,28045,Madrid,,914688764,914688765,"Centro menores con trastornos de salud mental, consucta y/o consumo de sustancias toxicas","Calle Coslada, 15 – 1ºD 28028 (Madrid)",,N/A,N/A
+72,72,Reaps. Picón de Jarama,Paracuellos de Jarama,28860,Madrid,"C/ Santa Ana, 27",916580028,,"Centro menores con trastornos de salud mental, consucta y/o consumo de sustancias toxicas",,,40.5945365,-3.4981529
+73,73,Santa Marta ,,28210,Madrid,,918965968,,"Centro menores con trastornos de salud mental, consucta y/o consumo de sustancias toxicas",,,N/A,N/A
+74,74,Sirio I,"C. de Amparo Usera, 44",28026,Madrid,,914763372,,"Centro menores con trastornos de salud mental, consucta y/o consumo de sustancias toxicas",,,N/A,N/A
+75,75,Sirio II,"Calle de Vicente Baena, 35",28035,Madrid,,913165402,913165426,"Centro menores con trastornos de salud mental, consucta y/o consumo de sustancias toxicas",,Cerrado?,N/A,N/A
