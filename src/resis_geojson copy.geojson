@@ -1,0 +1,1373 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Acogida HORTALEZA "
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6476904,
+                            40.4728382
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Acogida Isabel Clara Eugenia"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6445424,
+                            40.4730365
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Acogida casa de campo. Fundacion Antonio Moreno"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7491851,
+                            40.415284
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Casa de los ni\u00f1os"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7031795,
+                            40.5429909
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Residencia Menores Rosa"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6794779,
+                            40.4659413
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Residencia Para Menores El Valle"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.675921299999999,
+                            40.4407132
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Residencia Para Menores Las Acacias"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7348214,
+                            40.3829505
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Residencia Infantil Alcala de Henares"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.3484847,
+                            40.490647
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Alcorcon"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.8056339,
+                            40.3567299
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Aranjuez"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6140938,
+                            40.0262037
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Arce Rojo "
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7047695,
+                            40.453577
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Arganda"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.4424596,
+                            40.2903102
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Residencia Infantil Azaleas"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7655124,
+                            40.6674526
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Chamberi"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7092035,
+                            40.4349869
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Encinar"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6520661,
+                            40.452459
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Fernandez De los Rios"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7047142,
+                            40.4350543
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Isabel de Castilla"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6243331,
+                            40.377128
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Las rosas"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6169124,
+                            40.4211286
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Residencia Infantil Leganes"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7943157,
+                            40.3182536
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Mostoles"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.8842256,
+                            40.3178506
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Ntra. sra. de Lourdes"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.4982955,
+                            40.4426343
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Palomeras"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6348074,
+                            40.3903716
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Parla"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7037902,
+                            40.4167754
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Vallehermoso"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7095989,
+                            40.4354517
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "A.F.A.S (Asociacion Franciscana de apoyo social)"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7888553,
+                            40.519274
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Acrescere - Sagrada Familia"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7780759,
+                            40.4597028
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Aldeas Infantiles SOS"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -4.1408007,
+                            40.6003407
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Fundacion ANAR"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6737723,
+                            40.4385
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Asociacion Abrazo - San Mateo "
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6885568,
+                            40.3707335
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Calasanz"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6933328,
+                            40.2508866
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Ciudad escuela de los muchachos"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.763547099999999,
+                            40.3224432
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Casa de Torremocha"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            NaN,
+                            NaN
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Nuevo Futuro"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.693625,
+                            40.4394985
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "El Olivo"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6497495,
+                            40.4525916
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Luis Amig\u00f3"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7306764,
+                            40.39666709999999
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Villa Paz"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7946382,
+                            40.4459941
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Grupo educativo social "
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.701030599999999,
+                            40.3880589
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "\u00cdtaca"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.630126,
+                            40.4297048
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "La ribera"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7291693,
+                            40.4244687
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Nuevo Futuro"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6282318,
+                            40.5420671
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Asociacion Paideia"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7054733,
+                            40.412253
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Fundacion Tomillo"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6857385,
+                            40.4407431
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Torremocha (piso tutelado chicas)"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.4929826,
+                            40.8370319
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Torremocha (piso tutelado chicos)"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7115036,
+                            40.4223819
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Manzanares"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6503237,
+                            40.449176
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Vista Alegre"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7344765,
+                            40.3833899
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Afinsa - Los Alamos"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6992803,
+                            40.4116876
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Arquisocial San Cosme"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6979453,
+                            40.4093476
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Asociacion Dual "
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6933103,
+                            40.4726678
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Caritas Diocesana de Madrid"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6721686,
+                            40.432467
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Ginso Magallanes"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            NaN,
+                            NaN
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Pinardi - Casa Garelli "
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7009087,
+                            40.4479691
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Red Madrile\u00f1a de inmigracion"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            NaN,
+                            NaN
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Trama menas"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7587681,
+                            40.3977576
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Centro del pinar (fundacion Samu)"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            NaN,
+                            NaN
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "SAMU"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.5288606,
+                            40.3620241
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "SAMU (las rejas)"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            NaN,
+                            NaN
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "SAMU (brenes)"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            NaN,
+                            NaN
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Diagrama"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            NaN,
+                            NaN
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Diagrama (San Fernando de Henares)"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            NaN,
+                            NaN
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Diagrama (valdemoro)"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            NaN,
+                            NaN
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Almenara"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -4.2573009,
+                            40.5111046
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Apanid"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7441796,
+                            40.2738884
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Casa belen "
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.6369646,
+                            40.4287955
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Martinez Bujanda I"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.785330899999999,
+                            40.2921935
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Martinez Bujanda  II"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -4.130466999999999,
+                            40.5800446
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Peripatos"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.7267896,
+                            40.3898319
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Nu\u00f1o Gutierrez"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            NaN,
+                            NaN
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Santa Maria de la vida"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            NaN,
+                            NaN
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Proyecto Persona"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            NaN,
+                            NaN
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Berzosa"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.524416,
+                            40.97542809999999
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Dianova Espa\u00f1a "
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            NaN,
+                            NaN
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Reaps. Pic\u00f3n de Jarama"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.5320293,
+                            40.50292140000001
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Santa Marta "
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            NaN,
+                            NaN
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Sirio I"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            NaN,
+                            NaN
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Sirio II"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            NaN,
+                            NaN
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
