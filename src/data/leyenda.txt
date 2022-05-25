@@ -1,0 +1,10 @@
+centros primaria 
+centros secundaria 
+
+data_coles_complete.csv
+data_resis_complete.csv
+data_coles_complete_gm.csv
+data_resis_complete_gm.csv
+
+n_coles_cercanos.csv
+resi_mas_cercana.csv
