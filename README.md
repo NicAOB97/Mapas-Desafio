@@ -24,5 +24,6 @@ pip install -r requirements.txt
 <h2>AUTHOR :black_nib: </h2>
 - Nic Orchard @NicAOB97
 <br>
-Example map
+Example map:
+
 ![Mapa](./src/images/map_ex.png?raw=true "Ejemplo del mapa creado con clusters y etiquetas") 
