@@ -10,7 +10,7 @@ As our final coursework at The Bridge School Madrid, we were asked to collaborat
 
 ![Familia](./src/images/familia.png?raw=true "Familia") 
 
-<h2>Pre-requisites :black_nib: </h2>
+<h2>Pre-requisites :heavy_check_mark: </h2>
 
 ```
 pip install -r requirements.txt 
