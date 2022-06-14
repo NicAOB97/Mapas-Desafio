@@ -1,5 +1,4 @@
 import pandas as pd
-import folium
 from functions import plot_map_1, plot_map_cluster
 
 colegios = pd.read_csv('./data/data_coles_complete_gm.csv', index_col=0)
