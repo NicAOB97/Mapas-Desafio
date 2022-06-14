@@ -1,4 +1,6 @@
 import math 
+import gmaps
+import googlemaps
 import folium
 import geocoder
 import pandas as pd
@@ -27,7 +29,7 @@ def process_names(colegios):
 #############################################################################################################
 # Dos funciones que encuentran la latitude y longitude segun la calle y el codigo postal 
 # Two functions that find the latitude and longitude according to street name and postcode
-def get_coordinates_google(df, street_column, postal_code):
+def get_coordinates_google(api_key, df, street_column, postal_code):
 
     ''' Utilizando la API de Google Map 
         Using the Google Maps API
@@ -37,6 +39,10 @@ def get_coordinates_google(df, street_column, postal_code):
 
     latitudes = []
     longitudes = []
+
+    gmaps.configure(api_key=api_key)
+    map_client = googlemaps.Client(api_key)
+
     for i in range(0,len(df)):
         try: 
             address = df.iloc[i][street_column]+', Madrid, '+str(df.iloc[i][postal_code])
@@ -242,13 +248,13 @@ def plot_locations(address):
     resi_mas_cercana = closest_residence(colegios, resis)
     n_coles_cercanos = number_close_schools(colegios, resis)
     # create map
-    plot_locations_map = plot_map(colegios, resis, resi_mas_cercana, n_coles_cercanos)
+    plot_locations_map = plot_map_cluster(colegios, resis, resi_mas_cercana, n_coles_cercanos)
     
     # marker
     folium.Marker(latlng, popup=str(address), tooltip='click').add_to(plot_locations_map)
     
     # display map
-    display(plot_locations_map)
+    return plot_locations_map
 
 #############################################################################################################
 
