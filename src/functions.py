@@ -231,3 +231,37 @@ def plot_locations(address):
     
     # display map
     display(plot_locations_map)
+
+#############################################################################################################
+
+# quitar S/N (sin numero en ciertas direcciones)
+def process_names(colegios):
+
+    calles = []
+
+    for i in range(0,len(colegios)):
+        if 'S/n' in colegios.iloc[i]['DOMICILIO']:
+            calles.append(colegios.iloc[i]['DOMICILIO'].replace(', S/n', ' '))
+        else: 
+            calles.append(colegios.iloc[i]['DOMICILIO'])
+
+    print(len(calles))
+    colegios['calle'] = calles
+    return colegios
+
+def get_coordinates(df, street_column, postal_code):
+
+    geolocator = Nominatim(user_agent="example app")
+
+    latitudes = []
+    longitudes = []
+    for i in range(0,len(df)):
+        try: 
+            x = geolocator.geocode(df.iloc[i][street_column]+', Madrid, '+df.iloc[i][postal_code]).point
+            latitudes.append(x[0])
+            longitudes.append(x[1])
+        except: 
+            latitudes.append('N/A')
+            longitudes.append('N/A')
+
+    return latitudes, longitudes

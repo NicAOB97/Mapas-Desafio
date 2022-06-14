@@ -1,4 +1,9 @@
+# Script used to process raw school data 
+# csv of primary schools and secondary schools obtained from madrid gov website
+# cleans and saves all data into new csv
+
 import pandas as pd 
+from functions import process_names, get_coordinates
 
 # Processing csv's and saving (rewriting old)
 df_primaria = pd.read_csv('./data/centros_primaria.csv', sep= ';', encoding='Latin-1')
@@ -31,8 +36,24 @@ df_secundaria.to_csv('./data/centros_secundaria.csv')
 # concatenando para obtenes listado completo de colegios
 colegios = pd.concat([df_primaria,df_secundaria], axis = 0 )
 
+# cleans street names (function which removes S/N)
+# limpieza del nombre de las calles (funcion que quita S/N)
+colegios = process_names(colegios)
+
+# get coordinates
+# encuentra las coordenadas
+latitudes, longitudes = get_coordinates(colegios, 'calle', 'CODIGO POST.') 
+colegios['latitudes'] = latitudes
+colegios['longitudes'] = longitudes
+
+latitudes, longitudes = get_coordinates(resis, 'Calle', 'CP')
+resis['latitudes'] = latitudes
+resis['longitudes'] = longitudes
+
+
 # saving
 # guardando 
-colegios.to_csv('./data/colegios.csv')
+resis.to_csv('./data/data_resis_complete.csv')
+colegios.to_csv('./data/data_coles_complete.csv')
 
 
