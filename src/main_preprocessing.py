@@ -3,11 +3,13 @@
 # cleans and saves all data into new csv
 
 import pandas as pd 
-from functions import process_names, get_coordinates
+from functions import process_names, get_coordinates, closest_residence, number_close_schools
 
 # Processing csv's and saving (rewriting old)
 df_primaria = pd.read_csv('./data/centros_primaria.csv', sep= ';', encoding='Latin-1')
 df_secundaria = pd.read_csv('./data/centros_secundaria.csv', sep= ';', encoding='Latin-1')
+
+resis = pd.read_csv('./data/resis_complete_gm.csv')
 
 # Setting column names
 # Indicando el nombre de las columnas
@@ -50,6 +52,11 @@ latitudes, longitudes = get_coordinates(resis, 'Calle', 'CP')
 resis['latitudes'] = latitudes
 resis['longitudes'] = longitudes
 
+
+# distances
+# distancias 
+resi_mas_cercana = closest_residence(colegios, resis)
+n_coles_cercanos = number_close_schools(colegios, resis)
 
 # saving
 # guardando 

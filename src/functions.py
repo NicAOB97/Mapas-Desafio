@@ -7,6 +7,24 @@ from geopy.geocoders import Nominatim
 from folium.plugins import MarkerCluster
 
 #############################################################################################################
+
+# quitar S/N (sin numero en ciertas direcciones)
+def process_names(colegios):
+
+    calles = []
+
+    for i in range(0,len(colegios)):
+        if 'S/n' in colegios.iloc[i]['DOMICILIO']:
+            calles.append(colegios.iloc[i]['DOMICILIO'].replace(', S/n', ' '))
+        else: 
+            calles.append(colegios.iloc[i]['DOMICILIO'])
+
+    print(len(calles))
+    colegios['calle'] = calles
+    return colegios
+
+
+#############################################################################################################
 # Dos funciones que encuentran la latitude y longitude segun la calle y el codigo postal 
 # Two functions that find the latitude and longitude according to street name and postcode
 def get_coordinates_google(df, street_column, postal_code):
@@ -32,6 +50,8 @@ def get_coordinates_google(df, street_column, postal_code):
     return latitudes, longitudes
 
 def get_coordinates_geolocator(df, street_column, postal_code, geolocator = Nominatim(user_agent="project")):
+    
+    geolocator = Nominatim(user_agent="example app")
     latitudes = []
     longitudes = []
     for i in range(0,len(df)):
@@ -62,7 +82,10 @@ def closest_residence(colegios, resis):
     residencia = []
 
     for i in range(0, len(colegios)):
-        win = 1000000
+
+        win = 10000000000
+        j = 'N/A'
+
         for j in range(0, len(resis)):
 
             lat_resi = resis.iloc[j]['latitudes']
@@ -77,19 +100,14 @@ def closest_residence(colegios, resis):
 
                 if aux < win :
                     win = aux 
-                    
-                    closest_dist.append(aux)
-                    resi_number.appent(j)
-                    residencia.append(resis.iloc[resi_number[i]]['Residencia'])
-
-                else: 
-                    win = win
-                    closest_dist.append('N/A')
-                    resi_number.appent('N/A')
-                    residencia.append('N/A')
+                    num = j
 
             except:
                 win = win
+
+        resi_number.append(num)
+        residencia.append(resis.iloc[resi_number[i]]['Residencia'])
+        closest_dist.append(win)
 
     resi_mas_cercana = pd.DataFrame(colegios['CENTRO'])
     resi_mas_cercana['distance'] = closest_dist
@@ -151,7 +169,7 @@ def number_close_schools(colegios, resis):
 
 #############################################################################################################
 
-def plot_map(colegios, resis, resi_mas_cercana, n_coles_cercanos):
+def plot_map_cluster(colegios, resis, resi_mas_cercana, n_coles_cercanos):
     # create map
     plot_locations_map = folium.Map(location=[40.380708,-3.741548], zoom_start=7)
 
@@ -234,34 +252,22 @@ def plot_locations(address):
 
 #############################################################################################################
 
-# quitar S/N (sin numero en ciertas direcciones)
-def process_names(colegios):
+# plots a simple map with all the schools and all the resis plotted on it 
 
-    calles = []
+def full_map_1(resis, colegios):
+
+    m = folium.Map(location=[40.380708,-3.741548], prefer_canvas=True) # optional argument zoom_start=5
+    for i in range(0,len(resis)):
+        try:
+            folium.Marker(location=[resis.iloc[i]['latitudes'],resis.iloc[i]['longitudes']], popup=resis.iloc[i]['Residencia'], icon=folium.Icon(color='black', icon_color='#bdd2c1') ).add_to(m)
+        except: 
+            i = i 
 
     for i in range(0,len(colegios)):
-        if 'S/n' in colegios.iloc[i]['DOMICILIO']:
-            calles.append(colegios.iloc[i]['DOMICILIO'].replace(', S/n', ' '))
-        else: 
-            calles.append(colegios.iloc[i]['DOMICILIO'])
-
-    print(len(calles))
-    colegios['calle'] = calles
-    return colegios
-
-def get_coordinates(df, street_column, postal_code):
-
-    geolocator = Nominatim(user_agent="example app")
-
-    latitudes = []
-    longitudes = []
-    for i in range(0,len(df)):
-        try: 
-            x = geolocator.geocode(df.iloc[i][street_column]+', Madrid, '+df.iloc[i][postal_code]).point
-            latitudes.append(x[0])
-            longitudes.append(x[1])
+        try:
+            folium.CircleMarker(location=[colegios.iloc[i]['latitudes'],colegios.iloc[i]['longitudes']], popup=colegios.iloc[i]['CENTRO'], radius=7, color="#f0985d", fill_color="#f0985d"  ).add_to(m)
         except: 
-            latitudes.append('N/A')
-            longitudes.append('N/A')
+            i = i
 
-    return latitudes, longitudes
+    return m
+
