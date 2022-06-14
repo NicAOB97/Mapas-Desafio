@@ -10,6 +10,11 @@ As our final coursework at The Bridge School Madrid, we were asked to collaborat
 
 ![Familia](./src/images/familia.png?raw=true "Familia") 
 
+<h2>What was used :computer: </h2>
+- map created using folium
+- latitude and longitude obtained using the Google Maps API
+- ipywidgets used to create search bar for video demonstration
+
 <h2>Pre-requisites :heavy_check_mark: </h2>
 
 ```
